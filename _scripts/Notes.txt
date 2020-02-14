@@ -1,0 +1,15 @@
+**** BATTLE ****
+Attack anim is slow
+HP GUI
+Smoothe out battle stats
+
+**** Dialogue ****
+Key Item Progression
+Face player when speaking
+Rewrite Dialogue processing
+	** This is a hot mess!
+
+**** Menu ****
+Start at top of menu
+Sizing
+**Choose options with arrow keys

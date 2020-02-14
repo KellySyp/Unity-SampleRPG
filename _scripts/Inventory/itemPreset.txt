@@ -1,0 +1,72 @@
+Potion
+0
+50
+10
+5
+Restores a little HP.
+HiPotion
+0
+100
+30
+10
+Restores some HP.
+MaxPotion
+0
+200
+50
+30
+Restores a lot HP.
+Locket
+1
+0
+0
+0
+An old locket handed down from generation to generation.
+McGuffin
+1
+0
+0
+0
+An object that moves the plot forward.
+Large Key
+1
+0
+0
+0
+Probably goes to a dungeon or something.
+Wooden Sword
+2
+30
+50
+30
+A sword made of wood. Might be a children's toy.
+Metal Sword
+2
+150
+80
+50
+A decent sword made of metal.
+Diamond Sword
+2
+300
+200
+175
+A powerful sword made of Diamond. This must be legendary.
+Leather Vest
+3
+10
+10
+5
+A vest made from scraps of leather. Better than nothing.
+Chain Mail
+3
+50
+30
+20
+Decent armor made from linked chains.
+Diamond Armor
+3
+200
+100
+70
+Legendary armor made from diamond. Surprisingly comfy too.

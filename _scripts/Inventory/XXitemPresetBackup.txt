@@ -1,0 +1,83 @@
+*Name,Type,Value,Buy,Sell,Description
+*
+*Types 0-Item 1-Weapon 2-Armor 3-Key
+*
+* ************** Items **************
+Potion
+0
+50
+10
+5
+Restores a little HP.
+HiPotion
+0
+100
+30
+10
+Restores some HP.
+MaxPotion
+0
+200
+50
+30
+Restores a lot HP.
+*
+* ************** Weapons **************
+Wooden Sword
+1
+100
+50
+30
+A sword made of wood. Might be a children's toy.
+Metal Sword
+1
+150
+80
+50
+A decent sword made of metal.
+Diamond Sword
+1
+300
+200
+175
+A powerful sword made of Diamond. This must be legendary.
+*
+* ************** Armor **************
+Leather Vest
+2
+10
+10
+5
+A vest made from scraps of leather. Better than nothing.
+Chain Mail
+2
+50
+30
+20
+Decent armor made from linked chains.
+Diamond Armor
+2
+200
+100
+70
+Legendary armor made from diamond. Surprisingly comfy too.
+*
+* ************** Key Items **************
+Locket
+3
+0
+0
+0
+An old locket handed down from generation to generation.
+McGuffin
+3
+0
+0
+0
+An object that moves the plot forward.
+Large Key
+3
+0
+0
+0
+Probably goes to a dungeon or something.
